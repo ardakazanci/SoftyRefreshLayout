@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SoftRefresh">
+        <attr name="SoftBackgroundColor" format="color" />
+        <attr name="SoftForegroundColor" format="color" />
+        <attr name="SoftSize" format="integer"/>
+    </declare-styleable>
+</resources>
